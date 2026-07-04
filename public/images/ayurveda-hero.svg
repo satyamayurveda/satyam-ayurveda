@@ -1,0 +1,20 @@
+<svg width="960" height="1200" viewBox="0 0 960 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ayurvedic consultation visual</title>
+  <desc id="desc">A calm Ayurvedic clinic scene with herbs, mortar and pestle, leaves, and a doctor profile placeholder.</desc>
+  <rect width="960" height="1200" rx="48" fill="#F8FBF7"/>
+  <circle cx="730" cy="150" r="170" fill="#EAF7EF"/>
+  <circle cx="170" cy="1030" r="210" fill="#FFF4D2"/>
+  <path d="M252 178C361 123 509 139 607 239C725 359 714 550 593 662C480 766 300 752 196 636C95 523 102 292 252 178Z" fill="white" stroke="#D8EADC" stroke-width="4"/>
+  <path d="M354 316C366 248 422 199 489 199C568 199 632 263 632 342C632 421 568 485 489 485C422 485 366 436 354 368" stroke="#1E7A43" stroke-width="18" stroke-linecap="round"/>
+  <path d="M341 344H240" stroke="#C9972C" stroke-width="18" stroke-linecap="round"/>
+  <path d="M483 276C506 305 506 383 483 412C460 383 460 305 483 276Z" fill="#1E7A43"/>
+  <path d="M520 337C557 323 629 345 654 377C616 391 544 369 520 337Z" fill="#77B88A"/>
+  <path d="M446 337C409 323 337 345 312 377C350 391 422 369 446 337Z" fill="#77B88A"/>
+  <rect x="180" y="740" width="600" height="270" rx="32" fill="white" stroke="#E3EEE5" stroke-width="4"/>
+  <path d="M285 890C285 817 343 759 416 759H544C617 759 675 817 675 890V1010H285V890Z" fill="#EAF7EF"/>
+  <circle cx="480" cy="774" r="82" fill="#FFF7DF" stroke="#C9972C" stroke-width="8"/>
+  <path d="M378 960C426 909 534 909 582 960" stroke="#1E7A43" stroke-width="18" stroke-linecap="round"/>
+  <path d="M165 210C188 140 257 93 330 103C276 162 222 198 165 210Z" fill="#1E7A43"/>
+  <path d="M790 855C723 839 674 783 669 714C727 749 764 796 790 855Z" fill="#C9972C"/>
+  <path d="M180 575C230 562 286 579 322 621C262 638 214 626 180 575Z" fill="#77B88A"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pan India delivery graphic</title>
+  <desc id="desc">A stylized India delivery map with courier routes from Ghaziabad across India.</desc>
+  <rect width="900" height="700" rx="36" fill="#FFFFFF"/>
+  <path d="M441 66L504 109L522 181L579 238L553 309L601 380L555 470L488 459L440 604L362 540L320 440L238 403L263 318L331 289L316 211L376 158L441 66Z" fill="#EAF7EF" stroke="#1E7A43" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="397" cy="216" r="18" fill="#C9972C"/>
+  <text x="422" y="223" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0F3B2E">Ghaziabad</text>
+  <path d="M397 216C270 176 172 207 99 310" stroke="#C9972C" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 14"/>
+  <path d="M397 216C568 153 705 178 810 296" stroke="#C9972C" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 14"/>
+  <path d="M397 216C510 331 600 420 736 496" stroke="#C9972C" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 14"/>
+  <path d="M397 216C360 370 302 470 209 579" stroke="#C9972C" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 14"/>
+  <g fill="#1E7A43">
+    <circle cx="99" cy="310" r="12"/>
+    <circle cx="810" cy="296" r="12"/>
+    <circle cx="736" cy="496" r="12"/>
+    <circle cx="209" cy="579" r="12"/>
+  </g>
+  <rect x="76" y="78" width="250" height="76" rx="12" fill="#F8FBF7" stroke="#D8EADC"/>
+  <text x="104" y="124" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#0F3B2E">Courier dispatch</text>
+  <rect x="574" y="548" width="250" height="76" rx="12" fill="#FFF7DF" stroke="#E9D28B"/>
+  <text x="606" y="594" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#0F3B2E">Tracking shared</text>
+</svg>
