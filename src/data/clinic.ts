@@ -10,7 +10,7 @@ import {
   Stethoscope,
   Truck,
   Venus,
-  Wind
+  UserRound,
 } from "lucide-react";
 
 export const clinic = {
@@ -41,7 +41,7 @@ export const treatments = [
   },
   {
     title: "Women's Health",
-    icon: Venus,
+    icon: UserRound,
     items: ["PCOD", "Excessive menstrual bleeding", "Leucorrhoea", "Infertility"],
     summary: "Personalized care for cycle health, hormonal balance, and fertility concerns."
   },
